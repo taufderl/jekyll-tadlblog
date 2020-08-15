@@ -23,6 +23,7 @@ twitter_username: _tadl_
 github_username: taufderl
 
 # Build settings
+destination: docs
 markdown: kramdown
 theme: jekyll-theme-hydeout
 plugins:
